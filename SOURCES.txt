@@ -1,0 +1,8 @@
+setup.py
+OscarPy/OscarPy.py
+OscarPy/__init__.py
+OscarPy.egg-info/PKG-INFO
+OscarPy.egg-info/SOURCES.txt
+OscarPy.egg-info/dependency_links.txt
+OscarPy.egg-info/not-zip-safe
+OscarPy.egg-info/top_level.txt
